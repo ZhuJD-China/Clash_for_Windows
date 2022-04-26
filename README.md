@@ -7,3 +7,6 @@
 | [ikuuu](https://ikuuu.co/user) |  无限-白嫖注册送50G，免费5+节点 |
 
 | [VPROXY](https://vproxy.us/#/register?code=JDQZCQyc) | 免费365天 注册送1T，免费2条节点 |
+
+
+## release版本：Clash_for_Windows_v0.19.5_x64_Chs ---->右侧下载
